@@ -147,4 +147,19 @@ const styles = StyleSheet.create({
   },
   mianHeader: {fontSize: 30, color: '#fff', backgroundColor: '#fff'},
 });
+
 export default ApiCall;
+/* 
+1) working in printer
+2) working on map apis
+3) Working on in app purchase
+4) working on notifications
+5) Working on social meadia type applications(Instagram)
+6) Working on chat app
+7) working in  launguage localtion
+8) Working on deply app on playstor and app store
+9) Working on booking app
+10) working on firebase and complex APIS
+11) Working on pluzzel game 
+12) Working on vi
+*/

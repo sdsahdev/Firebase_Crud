@@ -12,7 +12,6 @@ import Delete_data from './Delete_data';
 import ApiCall from './APIScreens/ApiCall';
 import { NavigationContainer, useNavigation } from '@react-navigation/native';
 import { firebaseAuth } from '../firebaseConnection';
-
 import {
   GoogleSignin,
   GoogleSigninButton,
@@ -22,9 +21,7 @@ import { signInWithPopup, getAuth, auth } from 'firebase/auth';
 import firebase from '../firebaseConnection';
 import { provider } from '../firebaseConnection';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { Button } from 'react-native-paper';
-import { Colors } from 'react-native/Libraries/NewAppScreen';
-import lofo from '../asserts/fire.png';
+
 const Stack = createNativeStackNavigator();
 // const auth = getAuth();
 // function signUp() {
